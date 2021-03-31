@@ -1,5 +1,5 @@
 # LastDB
-[![](https://i.imgur.com/e5laURE.png)
+![](https://i.imgur.com/e5laURE.png)
 
 ## About
 **CAUTION
@@ -15,7 +15,7 @@ LastDB is a pypi package so installing it is super simple!
 `pip install LastDB`
 
 ## Code Example
-.. code-block:: python
+```python
 
     import LastDB
     
@@ -44,7 +44,7 @@ LastDB is a pypi package so installing it is super simple!
     
     # Same as search but returns a count
     count = table.count(('username', 'Mikael'))
-    
+```
 
 ## Credits
 * Heavily inspired from [TinyDB](https://github.com/msiemens/tinydb).
