@@ -3,7 +3,7 @@
 
 ## About
 **CAUTION
-This is a really early development and please use carefully**
+This is a really early development. Use at own risk**
 
 This is a really simple database python package using json. It's super lightweight and easy to use. 
 
